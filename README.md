@@ -15,3 +15,7 @@ You can click the Preview link to take a look at your changes. ttt
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IRaZeRI&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=IRaZeRI&theme=juicyfresh&no-bg=true" />
+
+
