@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes. ttt
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=irazeri&column=8&margin-w=15&margin-h=15&theme=synthwave" alt="basemax"></a> 
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/irazeri?tab=repositories)
+<a href="https://github.com/irazeri?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=irazeri&column=8&margin-w=15&margin-h=15&theme=synthwave" alt="basemax"></a> 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/irazeri?tab=repositories)
