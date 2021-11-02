@@ -9,6 +9,8 @@ My Current Workstation Specification </h2>
 
 <div align="center">
   
+  ![Mainboard](https://img.shields.io/badge/Mainboard-Asus%20ROG%20MH%2012-blue?style=for-the-badge&logo=windows&logoColor=white) 
+<br>
 ![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <br>
 
