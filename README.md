@@ -32,7 +32,7 @@ My Current Workstation Specification </h2>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
-My Current Workstation Specification </h2>
+My Current Stats </h2>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -44,7 +44,10 @@ My Current Workstation Specification </h2>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+<h2 align="center">
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br></h2>
+
 <a href="https://github.com/irazeri?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=irazeri&column=8&margin-w=15&margin-h=15&theme=synthwave" alt="basemax"></a> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
