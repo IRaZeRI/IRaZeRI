@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<!---
+IRaZeRI/IRaZeRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. ttt
+--->
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2 align="center">
 My Current Workstation Specification </h2>
 
@@ -19,12 +27,12 @@ My Current Workstation Specification </h2>
   <br>
   ![GPU](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=vscode&logoColor=white)
   <br>
-<!---
-IRaZeRI/IRaZeRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. ttt
---->
+ </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2 align="center">
+My Current Workstation Specification </h2>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
