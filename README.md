@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<h2 align="center">
+My Current Workstation Specification </h2>
+
+<div align="center">
+  
+![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+<br>
+
+![CPU](https://img.shields.io/badge/Intel-Core%20i9%2010th-blue?style=for-the-badge&logo=intel&logoColor=white)
+
 <!---
 IRaZeRI/IRaZeRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. ttt
