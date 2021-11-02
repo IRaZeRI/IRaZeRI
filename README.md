@@ -15,7 +15,7 @@ My Current Workstation Specification </h2>
 <br>
 ![CPU](https://img.shields.io/badge/Intel-Core%20i9%2010th-blue?style=for-the-badge&logo=intel&logoColor=white)
   <br>
-  ![GPU](https://img.shields.io/badge/AMD-RX%205800%20XT-blue?style=for-the-badge&logo=intel&logoColor=white)
+  ![GPU](https://img.shields.io/badge/AMD-RX%205800%20XT-blue?style=for-the-badge&logo=amd&logoColor=white)
   <br>
 <!---
 IRaZeRI/IRaZeRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
