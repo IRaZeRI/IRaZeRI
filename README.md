@@ -9,12 +9,12 @@ My Current Workstation Specification </h2>
 
 <div align="center">
   
-  ![Mainboard](https://img.shields.io/badge/Mainboard-Asus%20ROG%20MH%2012-blue?style=for-the-badge&logo=windows&logoColor=white) 
-<br>
 ![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <br>
-
+![Mainboard](https://img.shields.io/badge/Mainboard-Asus%20ROG%20MH%2012-blue?style=for-the-badge&logo=windows&logoColor=white) 
+<br>
 ![CPU](https://img.shields.io/badge/Intel-Core%20i9%2010th-blue?style=for-the-badge&logo=intel&logoColor=white)
+  <br>
 
 <!---
 IRaZeRI/IRaZeRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
