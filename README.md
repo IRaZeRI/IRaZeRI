@@ -28,8 +28,6 @@ My Current Workstation Specification </h2>
   <br>
  </div>
 
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2409?logoColor=white%26project=%26recentMS=0%26showProject=false" />
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
@@ -41,6 +39,8 @@ My Current Stats </h2>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IRaZeRI&layout=compact&langs_count=8&theme=synthwave"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irazeri&theme=synthwave" alt="mystreak"/>
 </a>
+  
+  <img alt="Test" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2409?logoColor=white%26project=%26recentMS=0%26showProject=false" />
   
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
