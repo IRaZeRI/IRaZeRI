@@ -28,6 +28,8 @@ My Current Workstation Specification </h2>
   <br>
  </div>
 
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2409?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
